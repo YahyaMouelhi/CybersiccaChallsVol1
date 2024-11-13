@@ -1,0 +1,5 @@
+Now we will try to encrypt the flag with another hash 
+your task is to guess the hash type then crack it using the same wordlist
+
+Sicca{75616c249636d51ad8f1bfaabd598a1bc076769258a1d40d2a74329cb6764f090adee498ce9b7cbb8d2d973a48a1957c121a7694a90f8d3e93b0848202961cb1}
+

@@ -1,0 +1,6 @@
+Now you need to search hash type , use the same wordlist 
+to know the salt and the flag , i forgot the order but its 
+
+the salt is "internet"
+
+Sicca{e83429d725d628f116fc64f6c21c8fe470920efb8ed37983c055a04cd09b8d89}

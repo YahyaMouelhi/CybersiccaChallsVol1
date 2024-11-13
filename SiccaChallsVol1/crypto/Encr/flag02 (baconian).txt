@@ -1,0 +1,4 @@
+This cipher only contains a and b , each original letter length becomes 5 after encryption can you guess it ?
+
+
+baabaabaaaaaabaaaabaaaaaa{1abbaa_1abbaaabbbbbaaab3baababaaba3aaabb_aabbb4aabbb4}
